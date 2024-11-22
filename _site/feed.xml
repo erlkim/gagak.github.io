@@ -1,105 +1,304 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-17T06:15:26+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">erlkim</title><subtitle>Biarlah jika ada orang yang merendahkan ataupun mencaci diri kita. &lt;/br&gt; Anggap saja hanya sehembus angin yang berlalu.</subtitle><author><name>Erlkim</name></author><entry><title type="html">Segala Yang Terjadi Pasti Bisa Di Lalui 🤗</title><link href="http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui.html" rel="alternate" type="text/html" title="Segala Yang Terjadi Pasti Bisa Di Lalui 🤗" /><published>2023-03-17T00:00:00+07:00</published><updated>2023-03-17T00:00:00+07:00</updated><id>http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui</id><content type="html" xml:base="http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui.html"><![CDATA[<p>Selagi Masih Bisa Berusaha Aku Yakin Semua Pasti Akan Ada Jalan Untuk Menuju Kesuksesan………….</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-07T01:49:22+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">erlkim</title><subtitle>Biarlah jika ada orang yang merendahkan ataupun mencaci diri kita. &lt;/br&gt; Anggap saja hanya sehembus angin yang berlalu.</subtitle><author><name>Erlkim</name></author><entry><title type="html">cara nulis kode c++ yang benar</title><link href="http://localhost:4000/2023/06/07/kode-penulisan-c++.html" rel="alternate" type="text/html" title="cara nulis kode c++ yang benar" /><published>2023-06-07T00:00:00+07:00</published><updated>2023-06-07T00:00:00+07:00</updated><id>http://localhost:4000/2023/06/07/kode-penulisan-c++</id><content type="html" xml:base="http://localhost:4000/2023/06/07/kode-penulisan-c++.html"><![CDATA[<p><strong>C++ (atau C Plus Plus) adalah bahasa pemrograman tingkat tinggi yang fleksibel dan serbaguna yang dapat digunakan untuk membuat aplikasi dekstop, game, dan banyak lagi. Ini adalah bahasa yang relatif mudah dimengerti dan dipelajari, dan ada banyak sumber daya di luar sana yang siap membantu Anda belajar. Artikel ini akan memberi Anda sedikit dasar tentang bagaimana menulis kode C++ dengan benar.</strong></p>
 
-<p>Selalu Sabar Dan Bersyukur Ke Allah Yang Maha Esa,,Semoga Kita Selalu Diberi Ketabahan Dan Kesehatan,,Amin…🤗</p>]]></content><author><name>Erlkim</name></author><category term="welcome" /><category term="perkenalan" /><category term="curhat" /><category term="introduction" /><summary type="html"><![CDATA[Selalu Bersyukur Dengan Apa Ada Nya🤗🤗🤗🤗🤗🤗]]></summary></entry><entry><title type="html">Test 123456789……</title><link href="http://localhost:4000/2023/03/17/test-123456789.html" rel="alternate" type="text/html" title="Test 123456789……" /><published>2023-03-17T00:00:00+07:00</published><updated>2023-03-17T00:00:00+07:00</updated><id>http://localhost:4000/2023/03/17/test-123456789</id><content type="html" xml:base="http://localhost:4000/2023/03/17/test-123456789.html"><![CDATA[<p>tEst….</p>]]></content><author><name>Erlkim</name></author><category term="review" /><category term="tutorial" /><category term="perkenalan" /><category term="teman" /><category term="bot" /><summary type="html"><![CDATA[test di coba 12134142242]]></summary></entry><entry><title type="html">Download m3u iptv gratis</title><link href="http://localhost:4000/2022/10/19/download-m3u-iptv-gratis.html" rel="alternate" type="text/html" title="Download m3u iptv gratis" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/download-m3u-iptv-gratis</id><content type="html" xml:base="http://localhost:4000/2022/10/19/download-m3u-iptv-gratis.html"><![CDATA[<p>kali ini saya akan berbagi iptv sport dengan cuma cuma :D
+<ol>
+  <li>
+    <p>Pertama, periksa dokumentasi yang disertakan dengan bahasa pemrograman. Banyak bahasa memiliki dokumentasi lengkap yang menjelaskan bagaimana menulis kode untuk berbagai tugas, seperti manipulasi data, loop, dan menulis fungsi.</p>
+  </li>
+  <li>
+    <p>Selanjutnya, dapatkan buku atau panduan untuk gaya pemrograman C++. gaya Pemrograman adalah satu set aturan yang mencakup cara harus menulis kode dengan benar. Juga dikenal sebagai gaya pemrograman “the C++ way”, ini akan membantu Anda memiliki kode estetis dan mudah untuk diselidiki.</p>
+  </li>
+  <li>
+    <p>Setelah Anda mengetahui bagaimana cara bertugas dengan gaya pemrograman Anda, selanjutnya buatlah rencana untuk program Anda. Mulailah dengan menentukan apa hasil yang diharapkan, lalu bagi dan klasifikasikan berbagai tugas.</p>
+  </li>
+  <li>
+    <p>Setelah itu, tulislah pseudocode untuk menggambarkan alur logika untuk program Anda. Budayakan pendekatan dengan pseudocode – ini akan menjadi langkah penting untuk menulis kode Anda dengan benar.</p>
+  </li>
+  <li>
+    <p>Saatnya memasuki kode yang sesungguhnya. Mulailah dengan menulis bagian-bagian kecil dari program Anda dan mengujinya.</p>
+  </li>
+  <li>
+    <p>Ransel kembali program Anda untuk memastikan bahwa semuanya berfungsi dengan benar. Periksa apakah kode Anda memiliki masalah dan bagaimana untuk membuatnya berjalan dengan lebih halus dan efisien.</p>
+  </li>
+  <li>
+    <p>Sempurnakan kode Anda dengan menambahkan komentar yang tepat. Komentar akan membantu semua orang yang menyelidiki dan memelihara kode Anda untuk lebih memahaminya.</p>
+  </li>
+</ol>
+
+<p>Itulah beberapa langkah untuk menulis kode C++ dengan benar. Sekarang, menulis kode C++ mungkin masih akan dianggap tantangan bagi Anda, tapi Anda tahu di mana untuk memulai dan dengan langkah-langkah yang diperlukan untuk menulis kode dengan benar. Semoga Anda berhasil!</p>
+
+<p>Sedikit Contoh:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#include &lt;iostream&gt;
+#include &lt;string&gt;
+
+int main()
+{
+    std::string username;
+    std::string password;
+    
+    std::cout &lt;&lt; "Enter your username: ";
+    std::cin &gt;&gt; username;
+    std::cout &lt;&lt; "Enter your password: ";
+    std::cin &gt;&gt; password;
+
+    if (username == "admin" &amp;&amp; password == "1234") {
+        std::cout &lt;&lt; "Login Successful. Welcome!" &lt;&lt; std::endl;
+    } else {
+        std::cout &lt;&lt; "Login Failed. Try again!" &lt;&lt; std::endl;
+    }   
+    return 0;
+}
+</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#include &lt;iostream&gt;
+
+int main() {
+  std::cout &lt;&lt; "Hello World!" &lt;&lt; std::endl;
+  return 0;
+}
+</code></pre></div></div>]]></content><author><name>Erlkim</name></author><category term="tutorial
+gratis" /><category term="tutorial" /><category term="introduction" /><category term="perkenalan" /><category term="analysis" /><category term="review" /><summary type="html"><![CDATA[contoh menulis kode c++]]></summary></entry><entry><title type="html">Mengenal Template Bootstrap 4.4.1</title><link href="http://localhost:4000/2023/06/07/mengenal-Bootstrap-4.4.1.html" rel="alternate" type="text/html" title="Mengenal Template Bootstrap 4.4.1" /><published>2023-06-07T00:00:00+07:00</published><updated>2023-06-07T00:00:00+07:00</updated><id>http://localhost:4000/2023/06/07/mengenal-Bootstrap-4.4.1</id><content type="html" xml:base="http://localhost:4000/2023/06/07/mengenal-Bootstrap-4.4.1.html"><![CDATA[<p>Ketika Bootstrap 4.4.1 Dirilis, Konfirmasi Perkembangannya
+Keluarga Bootstrap telah meluncurkan versi 4.4.1 mereka yang luar biasa, segera setelah terakhir versi 4.4.0 lepas. Pembaruan ini telah lama ditunggu-tunggu karena memungkinkan pengguna untuk membuat halaman web yang mantap dan responsif yang mampu beradaptasi dengan beragam ukuran layar yang berbeda.</p>
+
+<p>Perbaruan utama dari Bootstrap 4.4.1 adalah bukan hanya komponen visual dari Bootstrap, tetapi juga penekanan terhadap kemampuan untuk mengikat tema dan tata letak. Dengan demikian, para pengembang web dapat memperkenalkan fitur baru tanpa perlu melibatkan bekerja di jendela kode HTML.</p>
+
+<p>Bagian data juga telah diperbarui dengan Bootstrap 4.4.1. Data-attribut dan sintaksis DataTables plugins telah dimaksimalkan untuk memungkinkan pembuatan tabel yang responsif dengan lebih mudah. Hal ini juga menyederhanakan versi sebelumnya saat menampilkan tabel dan memiliki hambatan yang jelas bagi pengunjung yang berusaha menavigasinya.</p>
+
+<p>Tidak hanya itu, Bootstrap 4.4.1 datang dengan peningkatan pada responsivitasnya. Didesain khusus untuk mendukung responsivitas terbaik bagi layar jenis apa pun. Karakteristik utama dari Bootsrap 4.4.1 adalah media query, yang membuatnya mudah untuk baik membuat atau mengubah desain.</p>
+
+<p>Untuk para pengembang Bootstrap lama, Bootstrap 4.4.1 harus cepat dipelajari. Namun, bagi siapa pun yang baru menggunakan Bootstrap, itu mungkin akan memerlukan waktu untuk diselami. Untungnya, Bootstrap 4.4.1 menyertakan tutorial yang didedikasikan untuk membantu dalam memahami dan membuat halaman web yang indah.</p>
+
+<p>Perkembangan Bootstrap terlibat juga pada kemampuan membuat laman Web static dan dinamis. Metode tersebut menyederhanakan proses pembuatan website dengan memberikan dukungan untuk css dan sintaksis HTML yang berbeda.</p>
+
+<p>Dalam keseluruhan, inovasi yang dilakukan Bootstrap 4.4.1 menimbulkan nilai lebih bagi para pengembang web. Membuat respon, kustomisasi, dan pembuatan halaman web kini semakin mudah berkat pembaruan ini. Sekarang, kita dapat menikmati kemampuan Bootstrap yang baru untuk mengembangkan desain web dan membuatnya beradaptasi dengan mudah ke layar apa pun.</p>
+
+<figure class="highlight"><span class="code-pil"><i class="fa fa-code font-weight-bold" aria-hidden="true"></i>
+    HTML &amp; CSS</span>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!doctype html&gt;</span>
+<span class="nt">&lt;html</span> <span class="na">lang=</span><span class="s">"en"</span><span class="nt">&gt;</span>
+
+<span class="nt">&lt;head&gt;</span>
+    <span class="c">&lt;!-- Required meta tags --&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"utf-8"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">"viewport"</span> <span class="na">content=</span><span class="s">"width=device-width, initial-scale=1, shrink-to-fit=no"</span><span class="nt">&gt;</span>
+
+    <span class="c">&lt;!-- Bootstrap CSS --&gt;</span>
+    <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"</span>
+        <span class="na">integrity=</span><span class="s">"sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"</span> <span class="na">crossorigin=</span><span class="s">"anonymous"</span><span class="nt">&gt;</span>
+
+    <span class="nt">&lt;title&gt;</span>Hello, world!<span class="nt">&lt;/title&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+
+<span class="nt">&lt;body&gt;</span>
+
+    <span class="nt">&lt;nav</span> <span class="na">class=</span><span class="s">"navbar navbar-expand-lg navbar-light bg-light"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"navbar-brand"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Navbar<span class="nt">&lt;/a&gt;</span>
+        <span class="nt">&lt;button</span> <span class="na">class=</span><span class="s">"navbar-toggler"</span> <span class="na">type=</span><span class="s">"button"</span> <span class="na">data-toggle=</span><span class="s">"collapse"</span> <span class="na">data-target=</span><span class="s">"#navbarSupportedContent"</span>
+            <span class="na">aria-controls=</span><span class="s">"navbarSupportedContent"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span> <span class="na">aria-label=</span><span class="s">"Toggle navigation"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"navbar-toggler-icon"</span><span class="nt">&gt;&lt;/span&gt;</span>
+        <span class="nt">&lt;/button&gt;</span>
+
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"collapse navbar-collapse"</span> <span class="na">id=</span><span class="s">"navbarSupportedContent"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"navbar-nav mr-auto"</span><span class="nt">&gt;</span>
+                <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item active"</span><span class="nt">&gt;</span>
+                    <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Home <span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"sr-only"</span><span class="nt">&gt;</span>(current)<span class="nt">&lt;/span&gt;&lt;/a&gt;</span>
+                <span class="nt">&lt;/li&gt;</span>
+                <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item"</span><span class="nt">&gt;</span>
+                    <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Link<span class="nt">&lt;/a&gt;</span>
+                <span class="nt">&lt;/li&gt;</span>
+                <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item dropdown"</span><span class="nt">&gt;</span>
+                    <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link dropdown-toggle"</span> <span class="na">href=</span><span class="s">"#"</span> <span class="na">id=</span><span class="s">"navbarDropdown"</span> <span class="na">role=</span><span class="s">"button"</span>
+                        <span class="na">data-toggle=</span><span class="s">"dropdown"</span> <span class="na">aria-haspopup=</span><span class="s">"true"</span> <span class="na">aria-expanded=</span><span class="s">"false"</span><span class="nt">&gt;</span>
+                        Dropdown
+                    <span class="nt">&lt;/a&gt;</span>
+                    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-menu"</span> <span class="na">aria-labelledby=</span><span class="s">"navbarDropdown"</span><span class="nt">&gt;</span>
+                        <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"dropdown-item"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Action<span class="nt">&lt;/a&gt;</span>
+                        <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"dropdown-item"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Another action<span class="nt">&lt;/a&gt;</span>
+                        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"dropdown-divider"</span><span class="nt">&gt;&lt;/div&gt;</span>
+                        <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"dropdown-item"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>Something else here<span class="nt">&lt;/a&gt;</span>
+                    <span class="nt">&lt;/div&gt;</span>
+                <span class="nt">&lt;/li&gt;</span>
+                <span class="nt">&lt;li</span> <span class="na">class=</span><span class="s">"nav-item"</span><span class="nt">&gt;</span>
+                    <span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"nav-link disabled"</span> <span class="na">href=</span><span class="s">"#"</span> <span class="na">tabindex=</span><span class="s">"-1"</span> <span class="na">aria-disabled=</span><span class="s">"true"</span><span class="nt">&gt;</span>Disabled<span class="nt">&lt;/a&gt;</span>
+                <span class="nt">&lt;/li&gt;</span>
+            <span class="nt">&lt;/ul&gt;</span>
+            <span class="nt">&lt;form</span> <span class="na">class=</span><span class="s">"form-inline my-2 my-lg-0"</span><span class="nt">&gt;</span>
+                <span class="nt">&lt;input</span> <span class="na">class=</span><span class="s">"form-control mr-sm-2"</span> <span class="na">type=</span><span class="s">"search"</span> <span class="na">placeholder=</span><span class="s">"Search"</span> <span class="na">aria-label=</span><span class="s">"Search"</span><span class="nt">&gt;</span>
+                <span class="nt">&lt;button</span> <span class="na">class=</span><span class="s">"btn btn-outline-success my-2 my-sm-0"</span> <span class="na">type=</span><span class="s">"submit"</span><span class="nt">&gt;</span>Search<span class="nt">&lt;/button&gt;</span>
+            <span class="nt">&lt;/form&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;/nav&gt;</span>
+
+    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"jumbotron jumbotron-fluid"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"container"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;h1</span> <span class="na">class=</span><span class="s">"display-4"</span><span class="nt">&gt;</span>Fluid jumbotron<span class="nt">&lt;/h1&gt;</span>
+            <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"lead"</span><span class="nt">&gt;</span>This is a modified jumbotron that occupies the entire horizontal space of its parent.
+            <span class="nt">&lt;/p&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+
+    <span class="nt">&lt;h1&gt;</span>Hello, world!<span class="nt">&lt;/h1&gt;</span>
+
+    <span class="c">&lt;!-- Optional JavaScript --&gt;</span>
+    <span class="c">&lt;!-- jQuery first, then Popper.js, then Bootstrap JS --&gt;</span>
+    <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://code.jquery.com/jquery-3.4.1.slim.min.js"</span>
+        <span class="na">integrity=</span><span class="s">"sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"</span>
+        <span class="na">crossorigin=</span><span class="s">"anonymous"</span><span class="nt">&gt;&lt;/script&gt;</span>
+    <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"</span>
+        <span class="na">integrity=</span><span class="s">"sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"</span>
+        <span class="na">crossorigin=</span><span class="s">"anonymous"</span><span class="nt">&gt;&lt;/script&gt;</span>
+    <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"</span>
+        <span class="na">integrity=</span><span class="s">"sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"</span>
+        <span class="na">crossorigin=</span><span class="s">"anonymous"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+
+<span class="nt">&lt;/html&gt;</span></code></pre></figure>
+
+</figure>
+
+<p><a href="https://getbootstrap.com/docs/4.4/about/overview/">Source: Bootstrap 4.4.1</a></p>]]></content><author><name>Erlkim</name></author><category term="review" /><category term="design" /><category term="tutorial
+gratis" /><category term="analysis" /><summary type="html"><![CDATA[mengenal Bootstrap 4.4.1]]></summary></entry><entry><title type="html">Tentang Batin</title><link href="http://localhost:4000/2023/06/06/batin.html" rel="alternate" type="text/html" title="Tentang Batin" /><published>2023-06-06T00:00:00+07:00</published><updated>2023-06-06T00:00:00+07:00</updated><id>http://localhost:4000/2023/06/06/batin</id><content type="html" xml:base="http://localhost:4000/2023/06/06/batin.html"><![CDATA[<p>Batin adalah abad kelima belas bagian dari ajaran imam Ali bin Abu Thalib yang menekankan pentingnya hubungan individu dengan Tuhan. Ini adalah sebuah pendekatan spiritual luar biasa yang bertujuan untuk memberikan arahan dan tujuan hidup seseorang. Banyak orang berargumen bahwa batinisme dapat berfungsi sebagai pembaruan ajaran Islam dengan cara yang sehat dan bermoral, sementara yang lain menganggapnya hanya “baru” dan “fans berlebihan” dari Imam Ali.</p>
+
+<p>Batin sering dilukiskan sebagai eksplorasi spiritual yang berbasis pada keterlibatan dan pengalaman individual. Batinisme berfokus pada ajaran toleransi sosial dan intelektual yang mengakui tradisi yang berbeda dan memperlakukan semua kepercayaan secara adil dan sikap yang menghormati pilihan orang lain. Batinisme mencari untuk mencapai kebenaran spiritual dengan wawasan yang lebih luas dan berkesinambungan dari wawasan tradisional dan membimbing orang untuk mendapatkan kesadaran buddhi yang lebih tinggi.</p>
+
+<p>Batiniyya memiliki banyak tiga pertemuan yang berbeda yaitu, Bab Ali, Fatimiyya, dan Sabiliyya. Ini tercermin dalam praktik-praktik ilmu hati, atau termasuk pada kondoning, pemahaman, dan penerapan ajaran abad kelima belas, yang melibatkan meditasi, membaca Qur’an, doa, puasa, dan pelaksanaan praktik ibadah yang penting bagi imam Ali. Perbedaan utama terletak pada tujuan dari masing-masing. Bab Ali berfokus pada tugas takdir dan pemahaman tentang tujuan kudus Tuhan. Fatimiyya terfokus pada pemahaman diri dan pencarian kesabaran spiritual keduniawi, sedangkan Sabiliyya menekankan pada tampak terlebih dahulu dan tindakan semata-mata untuk mencapai tujuan diri dan keselamatan spiritual.</p>
+
+<p>Batinisme juga mencakup fokus pada studi dan kajian ajaran abad kelima belas dan keterlibatan dalam pelbagai aspek intelektual yang paralel dengan ajaran Islam. Seperti dalam kajian teorema aljabar yang dipelajari oleh Ibn al-Haytham. Ini telah digunakan sebagai pandangan spiritual yang mendalam untuk membuat analogi yang mengekalkan nilai-nilai kepercayaan dan menyimpan hubungan secara teratur antara intelektualisme dan pengalaman spiritual.</p>
+
+<p>Batiniyya juga berkomitmen untuk menempatkan Tuhan, alam semesta, keselamatan, dan kebaikan kolektif manusia di puncak akal dan tindakan. Batinisme menolak adanya pantangan atau hal yang buruk yang dapat menghalangi pemahaman dan pencapaian spiritual seseorang. Dalam praktik ilmu hati, seorang Batini meluangkan waktu untuk bersilaturahim sendiri dan bertuhankan, berefleksi tentang identitas personal dan ketuhanan yang dianggap universal. Sifat Batini sering diperdebatkan, akan tetapi komitmen universal pada nilai-nilai seperti rasa hormat dan kejujuran, kerakyatan, kesetaraan, keadilan dan cinta saling menghormati menonjol sebagai sebuah tradisi yang usia abad kelima belas.</p>
+
+<p>Kesimpulannya, Batinisme menawarkan cara spiritual yang berbeda dan modern untuk memahami teologi Islam dengan berfokus pada pengujian intelektual dan eksplorasi spiritual melalui ilmu hati, sambil mendukung tradisi yang berkelanjutan dari Islam abad kelima belas. Adalah tugas setiap orang untuk menelusuri jalan spiritual dan dialogisiti antara komunitas Islam. Semoga Batinisme dapat dianggap sebagai pembaruan ajaran Islam yang menawarkan hak untuk bersikap jujur dan memelihara kebaikan kolektif manusia dengan berpegang pada nilai moral dan universal.</p>]]></content><author><name>Erlkim</name></author><category term="batin" /><summary type="html"><![CDATA[Batin]]></summary></entry><entry><title type="html">Membuat Kode Login Html Sederhana</title><link href="http://localhost:4000/2023/06/06/kode-login-html-sederhana.html" rel="alternate" type="text/html" title="Membuat Kode Login Html Sederhana" /><published>2023-06-06T00:00:00+07:00</published><updated>2023-06-06T00:00:00+07:00</updated><id>http://localhost:4000/2023/06/06/kode-login-html-sederhana</id><content type="html" xml:base="http://localhost:4000/2023/06/06/kode-login-html-sederhana.html"><![CDATA[<blockquote>
+  <p>### Kode Login HTML</p>
+</blockquote>
+
+<p><em>**</em>Kode login HTML adalah mungkin salah satu aspek terpenting untuk website atau aplikasi. Kode login  HTML memungkinkan pengguna untuk mengakses informasi yang dibuat khusus untuk dirinya. Dibawah ini akan dijelaskan bagaimana melakukan kode login sebuah website atau aplikasi menggunakan HTML.</p>
+
+<p><em>**</em>Tahap 1 – Buat Form Login
+##HTML## menyediakan syntax untuk membuat form yang dapat digunakan untuk login. Syntax yang digunakan adalah bentuk input yang berisi informasi seperti nama pengguna dan kata sandi. Manfaatkan kode berikut ini untuk membuat form login Anda.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;form action="form_action.asp" method="post"&gt;
+
+&lt;#label for="username"&gt;Username: &lt;/label&gt;
+
+&lt;#input type="text" id="username" name="username"&gt;
+
+&lt;#label for="pwd"&gt;Password: &lt;/label&gt;
+
+&lt;#input type="password" id="pwd" name="pwd"&gt;
+
+&lt;#input type="submit" value="Submit"&gt;
+
+&lt;/form&gt;
+</code></pre></div></div>
+<p><em>**</em>Tahap 2- Post data ke jendela login
+Setelah Anda membuat form login, Anda perlu menangani bagaimana cara mengontrol data yang masuk ketika pengguna mengajukan form. Untuk melakukan ini, Anda harus menggunakan &lt;“method = post”&gt; yang tersedia. Ini akan memungkinkan data dikirim ke jendela login. Di saat yang sama, Anda juga bisa menggunakan &lt;“metode = get”&gt; untuk mengambil data dari jendela login. Cara yang tepat adalah dengan menggunakan method POST.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;form action="check_login.php" method="post"&gt;
+
+&lt;/form&gt;
+
+&lt;form action="check_login.php" method="post"&gt;
+
+&lt;/form&gt;
+</code></pre></div></div>
+
+<p><em>**</em>Tahap 3 – Penyimpanan Data dari Form
+Setelah data telah dikirimkan ke jendela login Anda, Anda perlu menyimpan data. Data ini akan digunakan untuk memeriksa autentikasi pengguna. Penyimpanan data terbaik adalah dengan menggunakan PHP. Di bawah ini adalah contoh kode Anda bisa gunakan untuk proses penyimpanan data.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$username = $_POST['username'];
+
+$password = $_POST['password'];
+</code></pre></div></div>
+<p><em>**</em>Tahap 4 – Pengecekan Autentikasi
+Setelah data telah disimpan, Anda perlu menguji untuk melihat apakah data yang dikirimkan sesuai dengan data pengguna yang disimpan. Ini akan digunakan untuk memeriksa autentikasi pengguna. Di bawah ini adalah contoh kode Anda bisa gunakan untuk melakukan pengecekan autentikasi.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if($username == $stored_username &amp;&amp; $password == $stored_password)
+
+ {
+
+ Echo "Login Successful";
+
+ } 
+
+ else
+
+ {
+
+ Echo "Login Failed";
+
+ }
+</code></pre></div></div>
+
+<p><em>**</em>Itulah langkah-langkah yang diperlukan untuk membuat kode login HTML di website Anda atau aplikasi Anda. Dengan mengikuti langkah-langkah ini, Anda sudah cukup dekat untuk membuat form login HTML yang akan mengamankan data dan memberikan layanan yang lebih baik kepada para penggunanya.</p>
+
+<p><em>**</em>#Hapus tanda 👉&lt;#&gt;👈
+Terima Kasih 😊</p>]]></content><author><name>Erlkim</name></author><category term="tutorial
+gratis" /><category term="tutorial" /><category term="bot" /><category term="murah" /><category term="got" /><category term="introduction" /><summary type="html"><![CDATA[Cara Buat script login html biasa]]></summary></entry><entry><title type="html">cara install docker di termux</title><link href="http://localhost:4000/2023/06/06/cara-install-docker-di-termux.html" rel="alternate" type="text/html" title="cara install docker di termux" /><published>2023-06-06T00:00:00+07:00</published><updated>2023-06-06T00:00:00+07:00</updated><id>http://localhost:4000/2023/06/06/cara-install-docker-di-termux</id><content type="html" xml:base="http://localhost:4000/2023/06/06/cara-install-docker-di-termux.html"><![CDATA[<p><mark>Kali</mark> ini saya akan berbagi tutorial cara install <u>docker</u> di termux.Mungkin ini sangat berguna untuk pengujian dan implementasi aplikasi yang berbeda dalam lingkungan yang cocok dan tertutup untuk menghindari masalah yang mungkin saja terjadi dengan lingkungan yang berbeda antar sistem operasi.</p>
+
+<p>Berikut cara untuk menginstal Docker di Termux:</p>
+
+<p>1.Pasang aplikasi Termux di ponsel Android Anda.</p>
+
+<p>2.Buka Termux dan masukkan perintah berikut untuk memperbarui dan memperbarui paket Anda:</p>
+
+<blockquote>
+  <p><em>$ pkg update</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>$pkg upgrade</em></p>
+</blockquote>
+
+<p>3.Buat direktori baru untuk menyimpan file Docker dan aksesnya dengan menjalankan perintah berikut:</p>
+
+<blockquote>
+  <p><em>$ mkdir -p /data/data/com.termux/files/home/docker</em></p>
+</blockquote>
+
+<p>4.Pindah ke direktori yang dihasilkan dengan menjalankan perintah berikut:</p>
+
+<blockquote>
+  <p><em>$ cd /data/data/com.termux/files/home/docker</em></p>
+</blockquote>
+
+<p>5.Unduh paket rilis Docker (cepet) menggunakan perintah berikut:</p>
+
+<blockquote>
+  <p><em>$ curl -L https://download.docker.com/linux/static/stable/x86_64/docker-18.09.6.tgz &gt;docker.tgz</em></p>
+</blockquote>
+
+<p>6.Dengan kita memiliki paket yang telah diunduh pada direktori kita, kita harus mengekstrak isi paket dengan menjalankan perintah berikut:</p>
+
+<blockquote>
+  <p><em>$ tar -zxvf docker.tgz</em></p>
+</blockquote>
+
+<p>7.Salin file binary docker ke folder bin termux:</p>
+
+<blockquote>
+  <p><em>$ cp docker/* /data/data/com.termux/files/usr/bin</em></p>
+</blockquote>
+
+<p>8.Jangan lupa memberi hak akses pada docker dengan perintah berikut</p>
+
+<blockquote>
+  <p><em>$ chmod +x /data/data/com.termux/files/usr/bin/docker</em></p>
+</blockquote>
+
+<p>9.Selesai, sekarang Anda dapat menggunakan docker dengan menjalankan perintah berikut:</p>
+
+<blockquote>
+  <p><em>$ docker version</em></p>
+</blockquote>
+
+<p><u>Dengan cara ini, Anda memiliki Docker secara penuh berfungsi di Termux!</u></p>
+
+<ul>
+  <li>demikian terima kasih 😊</li>
+</ul>]]></content><author><name>Erlkim</name></author><category term="tutorial" /><summary type="html"><![CDATA[Cara install docker di termux]]></summary></entry><entry><title type="html">Segala Yang Terjadi Pasti Bisa Di Lalui 🤗</title><link href="http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui.html" rel="alternate" type="text/html" title="Segala Yang Terjadi Pasti Bisa Di Lalui 🤗" /><published>2023-03-17T00:00:00+07:00</published><updated>2023-03-17T00:00:00+07:00</updated><id>http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui</id><content type="html" xml:base="http://localhost:4000/2023/03/17/segala-yang-terjadi-pasti-bisa-di-lalui.html"><![CDATA[<p>Selagi Masih Bisa Berusaha Aku Yakin Semua Pasti Akan Ada Jalan Untuk Menuju Kesuksesan………….</p>
+
+<p>Selalu Sabar Dan Bersyukur Ke Allah Yang Maha Esa,,Semoga Kita Selalu Diberi Ketabahan Dan Kesehatan,,Amin…🤗</p>]]></content><author><name>Erlkim</name></author><category term="welcome" /><category term="perkenalan" /><category term="curhat" /><category term="introduction" /><summary type="html"><![CDATA[Selalu Bersyukur Dengan Apa Ada Nya🤗🤗🤗🤗🤗🤗]]></summary></entry><entry><title type="html">Test 123456789……</title><link href="http://localhost:4000/2023/03/17/test-123456789.html" rel="alternate" type="text/html" title="Test 123456789……" /><published>2023-03-17T00:00:00+07:00</published><updated>2023-03-17T00:00:00+07:00</updated><id>http://localhost:4000/2023/03/17/test-123456789</id><content type="html" xml:base="http://localhost:4000/2023/03/17/test-123456789.html"><![CDATA[<p>tEst….</p>]]></content><author><name>Erlkim</name></author><category term="review" /><category term="tutorial" /><category term="perkenalan" /><category term="teman" /><category term="bot" /><summary type="html"><![CDATA[test di coba 12134142242]]></summary></entry><entry><title type="html">Hiburan Keluarga</title><link href="http://localhost:4000/2022/10/19/hiburan-keluarga.html" rel="alternate" type="text/html" title="Hiburan Keluarga" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/hiburan-keluarga</id><content type="html" xml:base="http://localhost:4000/2022/10/19/hiburan-keluarga.html"><![CDATA[<p>Selamat Menonton</p>
+
+<p><a href="https://www.mediafire.com/file/6f1wwsqoeyzxgqy/IPTV_Lokal_campur_cukuptau.id.m3u/file">Link</a></p>]]></content><author><name>Erlkim</name></author><category term="iptv" /><category term="m3uiptv" /><category term="gratis" /><category term="bot" /><summary type="html"><![CDATA[iptv lokal boss]]></summary></entry><entry><title type="html">Hello Kawan :D</title><link href="http://localhost:4000/2022/10/19/hello-kawan-d.html" rel="alternate" type="text/html" title="Hello Kawan :D" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/hello-kawan-d</id><content type="html" xml:base="http://localhost:4000/2022/10/19/hello-kawan-d.html"><![CDATA[<p>Hello</p>]]></content><author><name>Erlkim</name></author><category term="gratis" /><category term="murah" /><summary type="html"><![CDATA[seperti bidadari jatuh dari motor]]></summary></entry><entry><title type="html">Download m3u iptv gratis</title><link href="http://localhost:4000/2022/10/19/download-m3u-iptv-gratis.html" rel="alternate" type="text/html" title="Download m3u iptv gratis" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/download-m3u-iptv-gratis</id><content type="html" xml:base="http://localhost:4000/2022/10/19/download-m3u-iptv-gratis.html"><![CDATA[<p>kali ini saya akan berbagi iptv sport dengan cuma cuma :D
 selamat mencoba………</p>
 
-<p><a href="https://www.mediafire.com/file/pni278scqaol60z/Sports-M3u-List-1-07-10-2022.m3u/file">Download Disini</a></p>]]></content><author><name>Erlkim</name></author><category term="iptv" /><category term="m3u" /><category term="m3uiptv" /><category term="gratis" /><summary type="html"><![CDATA[iptv gratis 2022]]></summary></entry><entry><title type="html">Hiburan Keluarga</title><link href="http://localhost:4000/2022/10/19/hiburan-keluarga.html" rel="alternate" type="text/html" title="Hiburan Keluarga" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/hiburan-keluarga</id><content type="html" xml:base="http://localhost:4000/2022/10/19/hiburan-keluarga.html"><![CDATA[<p>Selamat Menonton</p>
-
-<p><a href="https://www.mediafire.com/file/6f1wwsqoeyzxgqy/IPTV_Lokal_campur_cukuptau.id.m3u/file">Link</a></p>]]></content><author><name>Erlkim</name></author><category term="iptv" /><category term="m3uiptv" /><category term="gratis" /><category term="bot" /><summary type="html"><![CDATA[iptv lokal boss]]></summary></entry><entry><title type="html">Hello Kawan :D</title><link href="http://localhost:4000/2022/10/19/hello-kawan-d.html" rel="alternate" type="text/html" title="Hello Kawan :D" /><published>2022-10-19T00:00:00+07:00</published><updated>2022-10-19T00:00:00+07:00</updated><id>http://localhost:4000/2022/10/19/hello-kawan-d</id><content type="html" xml:base="http://localhost:4000/2022/10/19/hello-kawan-d.html"><![CDATA[<p>Hello</p>]]></content><author><name>Erlkim</name></author><category term="gratis" /><category term="murah" /><summary type="html"><![CDATA[seperti bidadari jatuh dari motor]]></summary></entry><entry><title type="html">lagu neffex full album</title><link href="http://localhost:4000/2022/03/03/lagu-neffex-full-album.html" rel="alternate" type="text/html" title="lagu neffex full album" /><published>2022-03-03T00:00:00+07:00</published><updated>2022-03-03T00:00:00+07:00</updated><id>http://localhost:4000/2022/03/03/lagu-neffex-full-album</id><content type="html" xml:base="http://localhost:4000/2022/03/03/lagu-neffex-full-album.html"><![CDATA[<p>neffex</p>
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UzwcHz8gzsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name>Erlkim</name></author><category term="musik" /><category term="mp3" /><category term="album" /><summary type="html"><![CDATA[neffex]]></summary></entry><entry><title type="html">Ngepost sik kudanan asemmm</title><link href="http://localhost:4000/2022/03/03/ngepost-sik-kudanan-asemmm.html" rel="alternate" type="text/html" title="Ngepost sik kudanan asemmm" /><published>2022-03-03T00:00:00+07:00</published><updated>2022-03-03T00:00:00+07:00</updated><id>http://localhost:4000/2022/03/03/ngepost-sik-kudanan-asemmm</id><content type="html" xml:base="http://localhost:4000/2022/03/03/ngepost-sik-kudanan-asemmm.html"><![CDATA[<p>Teles kabuehhh wkwkwkkwk..</p>]]></content><author><name>Erlkim</name></author><category term="asem" /><category term="kudanan" /><summary type="html"><![CDATA[teles kabeh ajur]]></summary></entry><entry><title type="html">LIRIK LAGU NEAR – BILANG PADA TUHANMU (FEAT. NINO MONGGO)</title><link href="http://localhost:4000/2022/02/26/lirik-lagu-near-bilang-pada-tuhanmu-feat-nino-monggo.html" rel="alternate" type="text/html" title="LIRIK LAGU NEAR – BILANG PADA TUHANMU (FEAT. NINO MONGGO)" /><published>2022-02-26T00:00:00+07:00</published><updated>2022-02-26T00:00:00+07:00</updated><id>http://localhost:4000/2022/02/26/lirik-lagu-near-bilang-pada-tuhanmu-feat-nino-monggo</id><content type="html" xml:base="http://localhost:4000/2022/02/26/lirik-lagu-near-bilang-pada-tuhanmu-feat-nino-monggo.html"><![CDATA[<p>```</p>
-<blockquote>
-  <p>*bilang pada tuhanmu
-boleh sa sayang ko nona
-semoga kita kan mampu jalani semua
-jodoh trakan kemana</p>
-</blockquote>
-
-<blockquote>
-  <p>bilang pada tuhanmu (pada tuhanmu)
-boleh sa sayang ko nona
-smoga kita kan mampu jalani semua
-jodoh trakan kemana
-oh sa sayang ko nona, nona</p>
-</blockquote>
-
-<blockquote>
-  <p>sa sayang ko nona, smoga ko percaya
-sa yakini tuhan satu, kita yang berbeda
-sa su jelaskan tapi nona tutup mata
-berakhir sudahi deng begini sa ko pasrah</p>
-</blockquote>
-
-<blockquote>
-  <p>su banyak masalah datang silih berganti
-smoga kali ini lewati, pegang sap janji
-su paling sayang jadi amin sampe nanti
-sa pu hati su mentok, cari siapa lagi</p>
-</blockquote>
-
-<blockquote>
-  <p>sa pu hari su kena ko, bahagia lagi
-dari pagi sampe pagi, sa ingat ko lari
-di sap pikiran, lamun juga mimpi
-jang berani ko sudahi, sama sa sa mati</p>
-</blockquote>
-
-<blockquote>
-  <p>bilang pada tuhanmu, boleh sa sayang ko nona
-smoga kita kan mampu jalani semua, jodoh trakan kemana
-bilang pada tuhanmu (pada tuhanmu), boleh sa sayang ko nona
-smoga kita kan mampu jalani semua
-jodoh trakan kemana oh sa sayang ko nona, nona</p>
-</blockquote>
-
-<blockquote>
-  <p>mereka paksa, banyak yang melarang
-dari kawan, sampe keluarga juga bilang
-perc-ma bertahan, ko jaga rusuk orang
-mending cari yang lain perc-ma sa ko sayang</p>
-</blockquote>
-
-<blockquote>
-  <p>namun hati tra bisa tipu sa yang rasa
-cari lain takut beda lagi bagaimana
-yang mengerti nona, mungkin yang lain tra bisa
-buka hati tra segampang itu boleh ko coba</p>
-</blockquote>
-
-<blockquote>
-  <p>sa yakin rencananya besar, dia pertemukan
-ini soal hati yang mana juga dia ciptakan
-kenapa takut lanjut di persimpangan jalan
-bilang pada tuhanmu, sayang ko spesial number one</p>
-</blockquote>
-
-<blockquote>
-  <p>bilang pada tuhanmu, boleh sa sayang ko nona
-smoga kita kan mampu jalani semua, jodoh trakan kemana</p>
-</blockquote>
-
-<blockquote>
-  <p>bilang pada tuhanmu, boleh sa sayang ko nona
-smoga kita kan mampu jalani semua, jodoh trakan kemana
-bilang pada tuhanmu (pada tuhanmu), boleh sa sayang ko nona
-smoga kita kan mampu jalani semua
-jodoh trakan kemana oh sa sayang ko nona, nona*</p>
-</blockquote>]]></content><author><name>Erlkim</name></author><category term="lirik" /><category term="kunci" /><category term="tutorial" /><summary type="html"><![CDATA[LIRIK LAGU NEAR – BILANG PADA TUHANMU (FEAT. NINO MONGGO)]]></summary></entry><entry><title type="html">Jangan Menyerah Untuk Menjalani Cobaan</title><link href="http://localhost:4000/2022/02/26/jangan-menyerah-untuk-menjalani-cobaan.html" rel="alternate" type="text/html" title="Jangan Menyerah Untuk Menjalani Cobaan" /><published>2022-02-26T00:00:00+07:00</published><updated>2022-02-26T00:00:00+07:00</updated><id>http://localhost:4000/2022/02/26/jangan-menyerah-untuk-menjalani-cobaan</id><content type="html" xml:base="http://localhost:4000/2022/02/26/jangan-menyerah-untuk-menjalani-cobaan.html"><![CDATA[<hr />
-<ul>
-  <li>
-    <p>Kutemukan diri dalam cermin
-selalu tanpa dusta
-bak air yang mengalir dalam kehidupan
-tak pernah menyalahkan takdir
-walau kadang tersenyum dalam tangis *</p>
-  </li>
-  <li>
-    <p>Matahari tak kan selamanya bersinar
-rembulan tak selamanya berpijar
-dan aku tak selamanya hidup *</p>
-  </li>
-  <li>
-    <p>Tertawa atau menangiskah nanti
-siapa pun tak pernah tahu. *</p>
-  </li>
-</ul>]]></content><author><name>Erlkim</name></author><category term="perkenalan" /><category term="teman" /><category term="kunci" /><summary type="html"><![CDATA[Jangan Menyerah Untuk Menjalani Cobaan]]></summary></entry><entry><title type="html">hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz</title><link href="http://localhost:4000/2022/02/26/hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz.html" rel="alternate" type="text/html" title="hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz" /><published>2022-02-26T00:00:00+07:00</published><updated>2022-02-26T00:00:00+07:00</updated><id>http://localhost:4000/2022/02/26/hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz</id><content type="html" xml:base="http://localhost:4000/2022/02/26/hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz.html"><![CDATA[<p><strong>hhmmmmmmmmmmmmmmmmmmmmmmmmzzzzzzzzzzzzzzzzzzzzz</strong></p>]]></content><author><name>Erlkim</name></author><category term="teman" /><category term="design" /><category term="welcome" /><category term="bot" /><summary type="html"><![CDATA[hmmmmmmmmmszzzzzzzzzzzzzzzzzzzzzzzzz]]></summary></entry></feed>
+<p><a href="https://www.mediafire.com/file/pni278scqaol60z/Sports-M3u-List-1-07-10-2022.m3u/file">Download Disini</a></p>]]></content><author><name>Erlkim</name></author><category term="iptv" /><category term="m3u" /><category term="m3uiptv" /><category term="gratis" /><summary type="html"><![CDATA[iptv gratis 2022]]></summary></entry></feed>
