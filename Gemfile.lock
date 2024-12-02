@@ -121,7 +121,7 @@ GEM
     tilt (2.0.11)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
-    webrick (1.7.0)
+    webrick (1.9.1)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -141,7 +141,7 @@ DEPENDENCIES
   liquid-md5
   rake (~> 13.1.0)
   wdm (>= 0.1.0)
-  webrick (~> 1.7)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.3.24
